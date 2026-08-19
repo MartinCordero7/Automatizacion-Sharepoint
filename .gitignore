@@ -1,0 +1,14 @@
+# Archivo de variables de entorno
+.env
+
+# Entornos virtuales
+venv/
+env/
+
+# Credenciales y tokens de API
+credenciales.json
+token.json
+
+# Caché de Python
+__pycache__/
+*.pyc

@@ -1,0 +1,339 @@
+------------------------------------------------- 
+[jue 13/08/2026 14:04:23,23] Iniciando sincronizacion... 
+1. Conectando a SharePoint...
+2. Conectando a Google Sheets...
+
+--- Procesando: Organismos de Inspección ---
+-> ¡Éxito! Se extrajeron 72 registros vigentes.
+-> Actualizando archivo 'Actividades OI (Respuestas)', pestaña 'Organismos de inspeccion'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Ensayo ---
+-> ¡Éxito! Se extrajeron 43 registros vigentes.
+-> Actualizando archivo 'Actividades LE (Respuestas)', pestaña 'Laboratorios de ensayo'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Calibración ---
+-> ¡Éxito! Se extrajeron 20 registros vigentes.
+-> Actualizando archivo 'Actividades LC (Respuestas)', pestaña 'Laboratorios de calibracion'...
+-> ¡Sincronización de esta entidad completada!
+------------------------------------------------- 
+[jue 13/08/2026 14:13:50,26] Iniciando sincronizacion... 
+1. Conectando a SharePoint...
+2. Conectando a Google Sheets...
+
+--- Procesando: Organismos de Inspección ---
+-> ¡Éxito! Se extrajeron 72 registros vigentes.
+-> Actualizando archivo 'Actividades OI (Respuestas)', pestaña 'Organismos de inspeccion'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Ensayo ---
+-> ¡Éxito! Se extrajeron 43 registros vigentes.
+-> Actualizando archivo 'Actividades LE (Respuestas)', pestaña 'Laboratorios de ensayo'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Calibración ---
+-> ¡Éxito! Se extrajeron 20 registros vigentes.
+-> Actualizando archivo 'Actividades LC (Respuestas)', pestaña 'Laboratorios de calibracion'...
+-> ¡Sincronización de esta entidad completada!
+------------------------------------------------- 
+[vie 14/08/2026  8:10:02,20] Iniciando sincronizacion... 
+1. Conectando a SharePoint...
+2. Conectando a Google Sheets...
+
+--- Procesando: Organismos de Inspección ---
+-> ¡Éxito! Se extrajeron 72 registros vigentes.
+-> Actualizando archivo 'Actividades OI (Respuestas)', pestaña 'Organismos de inspeccion'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Ensayo ---
+-> ¡Éxito! Se extrajeron 43 registros vigentes.
+-> Actualizando archivo 'Actividades LE (Respuestas)', pestaña 'Laboratorios de ensayo'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Calibración ---
+-> ¡Éxito! Se extrajeron 20 registros vigentes.
+-> Actualizando archivo 'Actividades LC (Respuestas)', pestaña 'Laboratorios de calibracion'...
+-> ¡Sincronización de esta entidad completada!
+------------------------------------------------- 
+[vie 14/08/2026  8:50:20,20] Iniciando sincronizacion... 
+1. Conectando a SharePoint...
+2. Conectando a Google Sheets...
+
+--- Procesando: Organismos de Inspección ---
+-> ¡Éxito! Se extrajeron 72 registros vigentes.
+-> Actualizando archivo 'Actividades OI (Respuestas)', pestaña 'Organismos de inspeccion'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Ensayo ---
+-> ¡Éxito! Se extrajeron 43 registros vigentes.
+-> Actualizando archivo 'Actividades LE (Respuestas)', pestaña 'Laboratorios de ensayo'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Calibración ---
+-> ¡Éxito! Se extrajeron 20 registros vigentes.
+-> Actualizando archivo 'Actividades LC (Respuestas)', pestaña 'Laboratorios de calibracion'...
+-> ¡Sincronización de esta entidad completada!
+------------------------------------------------- 
+[vie 14/08/2026  8:52:42,77] Iniciando sincronizacion... 
+1. Conectando a SharePoint...
+2. Conectando a Google Sheets...
+
+--- Procesando: Organismos de Inspección ---
+-> ¡Éxito! Se extrajeron 72 registros vigentes.
+-> Actualizando archivo 'Actividades OI (Respuestas)', pestaña 'Organismos de inspeccion'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Ensayo ---
+-> ¡Éxito! Se extrajeron 43 registros vigentes.
+-> Actualizando archivo 'Actividades LE (Respuestas)', pestaña 'Laboratorios de ensayo'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Calibración ---
+-> ¡Éxito! Se extrajeron 20 registros vigentes.
+-> Actualizando archivo 'Actividades LC (Respuestas)', pestaña 'Laboratorios de calibracion'...
+-> ¡Sincronización de esta entidad completada!
+------------------------------------------------- 
+[lun 17/08/2026  8:06:03,15] Iniciando sincronizacion... 
+1. Conectando a SharePoint...
+2. Conectando a Google Sheets...
+
+--- Procesando: Organismos de Inspección ---
+-> ¡Éxito! Se extrajeron 72 registros vigentes.
+-> Actualizando archivo 'Actividades OI (Respuestas)', pestaña 'Organismos de inspeccion'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Ensayo ---
+-> ¡Éxito! Se extrajeron 43 registros vigentes.
+-> Actualizando archivo 'Actividades LE (Respuestas)', pestaña 'Laboratorios de ensayo'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Calibración ---
+-> ¡Éxito! Se extrajeron 20 registros vigentes.
+-> Actualizando archivo 'Actividades LC (Respuestas)', pestaña 'Laboratorios de calibracion'...
+-> ¡Sincronización de esta entidad completada!
+------------------------------------------------- 
+[lun 17/08/2026  8:10:02,15] Iniciando sincronizacion... 
+1. Conectando a SharePoint...
+2. Conectando a Google Sheets...
+
+--- Procesando: Organismos de Inspección ---
+-> ¡Éxito! Se extrajeron 72 registros vigentes.
+-> Actualizando archivo 'Actividades OI (Respuestas)', pestaña 'Organismos de inspeccion'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Ensayo ---
+-> ¡Éxito! Se extrajeron 43 registros vigentes.
+-> Actualizando archivo 'Actividades LE (Respuestas)', pestaña 'Laboratorios de ensayo'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Calibración ---
+-> ¡Éxito! Se extrajeron 20 registros vigentes.
+-> Actualizando archivo 'Actividades LC (Respuestas)', pestaña 'Laboratorios de calibracion'...
+-> ¡Sincronización de esta entidad completada!
+------------------------------------------------- 
+[lun 17/08/2026 16:04:49,29] === INICIANDO SINCRONIZACION MASIVA === 
+- SharePoint... 
+1. Conectando a SharePoint...
+2. Conectando a Google Sheets...
+
+--- Procesando: Organismos de Inspección ---
+-> ¡Éxito! Se extrajeron 73 registros vigentes.
+-> Actualizando archivo 'Actividades OI (Respuestas)', pestaña 'Organismos de inspeccion'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Ensayo ---
+-> ¡Éxito! Se extrajeron 43 registros vigentes.
+-> Actualizando archivo 'Actividades LE (Respuestas)', pestaña 'Laboratorios de ensayo'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Calibración ---
+-> ¡Éxito! Se extrajeron 20 registros vigentes.
+-> Actualizando archivo 'Actividades LC (Respuestas)', pestaña 'Laboratorios de calibracion'...
+-> ¡Sincronización de esta entidad completada!
+- Oracle... 
+1. Autenticando en Google Sheets...
+-> Autenticación en Google exitosa.
+
+2. Inicializando cliente Oracle en Thick mode...
+3. Conectando a la base de datos Oracle...
+-> ¡Conexión a Oracle exitosa!
+
+--- Procesando: Centros de Distribución ---
+-> Se extrajeron 1442 registros vigentes de Oracle.
+-> Abriendo documento: 'Actividades OI (Respuestas)', pestaña: 'Oracle'...
+Traceback (most recent call last):
+  File "Z:\2 Gestión de Administracion de la Información\Regulación y Normativa\Sistema de Adquisición de Información de OEC\PROGRAMA CONEXION SHAREPOINT A GOOGLE FORMS\conexionOracle.py", line 94, in sincronizar_oracle_con_forms_oi
+    print("-> \u2705 Sincronización en Sheets completada con éxito.\n")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\esteban.sandoval\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 3: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "Z:\2 Gestión de Administracion de la Información\Regulación y Normativa\Sistema de Adquisición de Información de OEC\PROGRAMA CONEXION SHAREPOINT A GOOGLE FORMS\conexionOracle.py", line 97, in sincronizar_oracle_con_forms_oi
+    print(f"-> \u26a0\ufe0f Error procesando la entidad {proceso}: {error_entidad}\n")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\esteban.sandoval\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 3-4: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "Z:\2 Gestión de Administracion de la Información\Regulación y Normativa\Sistema de Adquisición de Información de OEC\PROGRAMA CONEXION SHAREPOINT A GOOGLE FORMS\conexionOracle.py", line 115, in <module>
+    sincronizar_oracle_con_forms_oi()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "Z:\2 Gestión de Administracion de la Información\Regulación y Normativa\Sistema de Adquisición de Información de OEC\PROGRAMA CONEXION SHAREPOINT A GOOGLE FORMS\conexionOracle.py", line 112, in sincronizar_oracle_con_forms_oi
+    print(f"\u274c Error crítico general: {e}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\esteban.sandoval\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined>
+[lun 17/08/2026 16:05:04,18] === SINCRONIZACION FINALIZADA === 
+------------------------------------------------- 
+[lun 17/08/2026 16:10:25,53] === INICIANDO SINCRONIZACION MASIVA === 
+- SharePoint... 
+1. Conectando a SharePoint...
+2. Conectando a Google Sheets...
+
+--- Procesando: Organismos de InspecciÃ³n ---
+-> Â¡Ã‰xito! Se extrajeron 73 registros vigentes.
+-> Actualizando archivo 'Actividades OI (Respuestas)', pestaÃ±a 'Organismos de inspeccion'...
+-> Â¡SincronizaciÃ³n de esta entidad completada!
+
+--- Procesando: Laboratorio de Ensayo ---
+-> Â¡Ã‰xito! Se extrajeron 43 registros vigentes.
+-> Actualizando archivo 'Actividades LE (Respuestas)', pestaÃ±a 'Laboratorios de ensayo'...
+-> Â¡SincronizaciÃ³n de esta entidad completada!
+
+--- Procesando: Laboratorio de CalibraciÃ³n ---
+-> Â¡Ã‰xito! Se extrajeron 20 registros vigentes.
+-> Actualizando archivo 'Actividades LC (Respuestas)', pestaÃ±a 'Laboratorios de calibracion'...
+-> Â¡SincronizaciÃ³n de esta entidad completada!
+- Oracle... 
+1. Autenticando en Google Sheets...
+-> AutenticaciÃ³n en Google exitosa.
+
+2. Inicializando cliente Oracle en Thick mode...
+3. Conectando a la base de datos Oracle...
+-> Â¡ConexiÃ³n a Oracle exitosa!
+
+--- Procesando: Centros de DistribuciÃ³n ---
+-> Se extrajeron 1442 registros vigentes de Oracle.
+-> Abriendo documento: 'Actividades OI (Respuestas)', pestaÃ±a: 'Oracle'...
+-> âœ… SincronizaciÃ³n en Sheets completada con Ã©xito.
+
+4. ConexiÃ³n a Oracle cerrada correctamente. Proceso finalizado.
+[lun 17/08/2026 16:10:39,65] === SINCRONIZACION FINALIZADA === 
+------------------------------------------------- 
+[mar 18/08/2026  8:10:02,22] === INICIANDO SINCRONIZACION MASIVA === 
+- SharePoint... 
+1. Conectando a SharePoint...
+2. Conectando a Google Sheets...
+
+--- Procesando: Organismos de InspecciÃ³n ---
+-> Â¡Ã‰xito! Se extrajeron 73 registros vigentes.
+-> Actualizando archivo 'Actividades OI (Respuestas)', pestaÃ±a 'Organismos de inspeccion'...
+-> Â¡SincronizaciÃ³n de esta entidad completada!
+
+--- Procesando: Laboratorio de Ensayo ---
+-> Â¡Ã‰xito! Se extrajeron 43 registros vigentes.
+-> Actualizando archivo 'Actividades LE (Respuestas)', pestaÃ±a 'Laboratorios de ensayo'...
+-> Â¡SincronizaciÃ³n de esta entidad completada!
+
+--- Procesando: Laboratorio de CalibraciÃ³n ---
+-> Â¡Ã‰xito! Se extrajeron 20 registros vigentes.
+-> Actualizando archivo 'Actividades LC (Respuestas)', pestaÃ±a 'Laboratorios de calibracion'...
+-> Â¡SincronizaciÃ³n de esta entidad completada!
+- Oracle... 
+1. Autenticando en Google Sheets...
+-> AutenticaciÃ³n en Google exitosa.
+
+2. Inicializando cliente Oracle en Thick mode...
+3. Conectando a la base de datos Oracle...
+-> Â¡ConexiÃ³n a Oracle exitosa!
+
+--- Procesando: Centros de DistribuciÃ³n ---
+-> Se extrajeron 1442 registros vigentes de Oracle.
+-> Abriendo documento: 'Actividades OI (Respuestas)', pestaÃ±a: 'Oracle'...
+-> âœ… SincronizaciÃ³n en Sheets completada con Ã©xito.
+
+4. ConexiÃ³n a Oracle cerrada correctamente. Proceso finalizado.
+[mar 18/08/2026  8:10:19,31] === SINCRONIZACION FINALIZADA === 
+------------------------------------------------- 
+[miÃ© 19/08/2026  8:10:01,83] === INICIANDO SINCRONIZACION MASIVA === 
+- SharePoint... 
+1. Conectando a SharePoint...
+2. Conectando a Google Sheets...
+
+--- Procesando: Organismos de InspecciÃ³n ---
+-> Â¡Ã‰xito! Se extrajeron 73 registros vigentes.
+-> Actualizando archivo 'Actividades OI (Respuestas)', pestaÃ±a 'Organismos de inspeccion'...
+-> Â¡SincronizaciÃ³n de esta entidad completada!
+
+--- Procesando: Laboratorio de Ensayo ---
+-> Â¡Ã‰xito! Se extrajeron 43 registros vigentes.
+-> Actualizando archivo 'Actividades LE (Respuestas)', pestaÃ±a 'Laboratorios de ensayo'...
+-> Â¡SincronizaciÃ³n de esta entidad completada!
+
+--- Procesando: Laboratorio de CalibraciÃ³n ---
+-> Â¡Ã‰xito! Se extrajeron 20 registros vigentes.
+-> Actualizando archivo 'Actividades LC (Respuestas)', pestaÃ±a 'Laboratorios de calibracion'...
+-> Â¡SincronizaciÃ³n de esta entidad completada!
+- Oracle... 
+1. Autenticando en Google Sheets...
+-> AutenticaciÃ³n en Google exitosa.
+
+2. Inicializando cliente Oracle en Thick mode...
+3. Conectando a la base de datos Oracle...
+-> Â¡ConexiÃ³n a Oracle exitosa!
+
+--- Procesando: Centros de DistribuciÃ³n ---
+-> Se extrajeron 1442 registros vigentes de Oracle.
+-> Abriendo documento: 'Actividades OI (Respuestas)', pestaÃ±a: 'Oracle'...
+-> âœ… SincronizaciÃ³n en Sheets completada con Ã©xito.
+
+4. ConexiÃ³n a Oracle cerrada correctamente. Proceso finalizado.
+[miÃ© 19/08/2026  8:10:30,32] === SINCRONIZACION FINALIZADA === 
+------------------------------------------------- 
+[miÃ© 19/08/2026  8:34:17,33] === INICIANDO SINCRONIZACION MASIVA === 
+- SharePoint... 
+1. Conectando a SharePoint...
+2. Conectando a Google Sheets...
+
+--- Procesando: Organismos de InspecciÃ³n ---
+-> Â¡Ã‰xito! Se extrajeron 73 registros vigentes.
+-> Actualizando archivo 'Actividades OI (Respuestas)', pestaÃ±a 'Organismos de inspeccion'...
+-> Â¡SincronizaciÃ³n de esta entidad completada!
+
+--- Procesando: Laboratorio de Ensayo ---
+-> Â¡Ã‰xito! Se extrajeron 43 registros vigentes.
+-> Actualizando archivo 'Actividades LE (Respuestas)', pestaÃ±a 'Laboratorios de ensayo'...
+-> Â¡SincronizaciÃ³n de esta entidad completada!
+
+--- Procesando: Laboratorio de CalibraciÃ³n ---
+-> Â¡Ã‰xito! Se extrajeron 20 registros vigentes.
+-> Actualizando archivo 'Actividades LC (Respuestas)', pestaÃ±a 'Laboratorios de calibracion'...
+-> Â¡SincronizaciÃ³n de esta entidad completada!
+- Oracle... 
+1. Autenticando en Google Sheets...
+-> AutenticaciÃ³n en Google exitosa.
+
+2. Inicializando cliente Oracle en Thick mode...
+3. Conectando a la base de datos Oracle...
+-> Â¡ConexiÃ³n a Oracle exitosa!
+
+--- Procesando: Centros de DistribuciÃ³n ---
+-> Se extrajeron 1442 registros vigentes de Oracle.
+-> Abriendo documento: 'Actividades OI (Respuestas)', pestaÃ±a: 'Oracle'...
+-> âœ… SincronizaciÃ³n en Sheets completada con Ã©xito.
+
+4. ConexiÃ³n a Oracle cerrada correctamente. Proceso finalizado.
+[miÃ© 19/08/2026  8:34:28,91] === SINCRONIZACION FINALIZADA === 
+------------------------------------------------- 
