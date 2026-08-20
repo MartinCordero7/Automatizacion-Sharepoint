@@ -89,10 +89,10 @@ def sincronizar_oracle_con_forms_oi():
                 
                 hoja.clear()
                 hoja.update(range_name='A1', values=datos_para_sheets)
-                print("-> ✅ Sincronización en Sheets completada con éxito.\n")
+                print("-> Sincronización en Sheets completada con éxito.\n")
                 
             except Exception as error_entidad:
-                print(f"-> ⚠️ Error procesando la entidad {proceso}: {error_entidad}\n")
+                print(f"->Error procesando la entidad {proceso}: {error_entidad}\n")
 
         # ---------------------------------------------------------
         # FASE 5: Cierre Seguro
@@ -103,11 +103,11 @@ def sincronizar_oracle_con_forms_oi():
 
     except oracledb.DatabaseError as e:
         error, = e.args
-        print(f"❌ Error crítico de Base de Datos Oracle:")
+        print(f"Error crítico de Base de Datos Oracle:")
         print(f"Código: {error.code}")
         print(f"Mensaje: {error.message}")
     except Exception as e:
-        print(f"❌ Error crítico general: {e}")
+        print(f"Error crítico general: {e}")
 
 if __name__ == "__main__":
     sincronizar_oracle_con_forms_oi()

@@ -337,3 +337,38 @@ UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 
 4. Conexión a Oracle cerrada correctamente. Proceso finalizado.
 [mié 19/08/2026  8:34:28,91] === SINCRONIZACION FINALIZADA === 
 ------------------------------------------------- 
+[jue 20/08/2026  8:10:02,17] === INICIANDO SINCRONIZACION MASIVA === 
+- SharePoint... 
+1. Conectando a SharePoint...
+2. Conectando a Google Sheets...
+
+--- Procesando: Organismos de Inspección ---
+-> ¡Éxito! Se extrajeron 73 registros vigentes.
+-> Actualizando archivo 'Actividades OI (Respuestas)', pestaña 'Organismos de inspeccion'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Ensayo ---
+-> ¡Éxito! Se extrajeron 43 registros vigentes.
+-> Actualizando archivo 'Actividades LE (Respuestas)', pestaña 'Laboratorios de ensayo'...
+-> ¡Sincronización de esta entidad completada!
+
+--- Procesando: Laboratorio de Calibración ---
+-> ¡Éxito! Se extrajeron 19 registros vigentes.
+-> Actualizando archivo 'Actividades LC (Respuestas)', pestaña 'Laboratorios de calibracion'...
+-> ¡Sincronización de esta entidad completada!
+- Oracle... 
+1. Autenticando en Google Sheets...
+-> Autenticación en Google exitosa.
+
+2. Inicializando cliente Oracle en Thick mode...
+3. Conectando a la base de datos Oracle...
+-> ¡Conexión a Oracle exitosa!
+
+--- Procesando: Centros de Distribución ---
+-> Se extrajeron 1442 registros vigentes de Oracle.
+-> Abriendo documento: 'Actividades OI (Respuestas)', pestaña: 'Oracle'...
+-> ✅ Sincronización en Sheets completada con éxito.
+
+4. Conexión a Oracle cerrada correctamente. Proceso finalizado.
+[jue 20/08/2026  8:10:21,36] === SINCRONIZACION FINALIZADA === 
+------------------------------------------------- 

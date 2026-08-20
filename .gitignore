@@ -12,3 +12,4 @@ token.json
 # Caché de Python
 __pycache__/
 *.pyc
+historial_sincronizacion.txt
