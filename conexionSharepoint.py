@@ -48,8 +48,9 @@ def sincronizar_sharepoint_con_forms():
     # 2. Autenticamos una sola vez en Google Sheets
     try:
         print("2. Conectando a Google Sheets...")
+        token_file = os.getenv("GOOGLE_CREDENTIALS_FILE")
         cliente_gspread = gspread.service_account(
-            filename='leafy-thunder-507913-s6-2f92ae133845.json'
+            filename=token_file
         )
     except Exception as e:
         print(f"Error crítico al conectar a Google Sheets: {e}")
