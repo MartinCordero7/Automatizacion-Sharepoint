@@ -1,4 +1,6 @@
 import os
+import sys
+sys.path.insert(0, r"C:\Users\esteban.sandoval\libs")
 import gspread
 from dotenv import load_dotenv
 from office365.sharepoint.client_context import ClientContext
@@ -46,9 +48,8 @@ def sincronizar_sharepoint_con_forms():
     # 2. Autenticamos una sola vez en Google Sheets
     try:
         print("2. Conectando a Google Sheets...")
-        cliente_gspread = gspread.oauth(
-            credentials_filename='credenciales.json',
-            authorized_user_filename='token.json'
+        cliente_gspread = gspread.service_account(
+            filename='leafy-thunder-507913-s6-2f92ae133845.json'
         )
     except Exception as e:
         print(f"Error crítico al conectar a Google Sheets: {e}")
@@ -91,7 +92,9 @@ def sincronizar_sharepoint_con_forms():
         except Exception as e:
             # Si una entidad falla (por ejemplo, alguien le cambia el nombre al archivo de Sheets),
             # capturamos el error para que el script no se detenga y continúe con la siguiente.
+            import traceback
             print(f"Error al procesar la ruta de {actividad_buscada}: {e}")
+            traceback.print_exc()
 
 if __name__ == "__main__":
     sincronizar_sharepoint_con_forms()

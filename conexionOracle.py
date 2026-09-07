@@ -25,9 +25,8 @@ def sincronizar_oracle_con_forms_oi():
         # FASE 1: Autenticación OAuth 2.0 en Google Sheets
         # ---------------------------------------------------------
         print("1. Autenticando en Google Sheets...")
-        cliente_gspread = gspread.oauth(
-            credentials_filename='credenciales.json',
-            authorized_user_filename='token.json'
+        cliente_gspread = gspread.service_account(
+            filename='leafy-thunder-507913-s6-2f92ae133845.json'
         )
         print("-> Autenticación en Google exitosa.\n")
 

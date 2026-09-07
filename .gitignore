@@ -6,10 +6,10 @@ venv/
 env/
 
 # Credenciales y tokens de API
-credenciales.json
-token.json
+*.json
 
 # Caché de Python
 __pycache__/
 *.pyc
 historial_sincronizacion.txt
+historial_sincronizacion.csv
