@@ -84,14 +84,20 @@ def sincronizar_sharepoint_con_forms():
             items = lista.items.filter(consulta_filtro).get_all().execute_query()
             
             registros = []
+            vistos = set()
             for item in items:
                 nombre = item.properties.get("Title", "Sin Nombre")
                 if actividad_buscada == "TODAS":
-                    registros.append([nombre])
+                    if nombre not in vistos:
+                        vistos.add(nombre)
+                        registros.append([nombre])
                 else:
                     actividad = item.properties.get("Actividad", "Sin Actividad")
                     estado = item.properties.get("Estado0", "Sin Estado")
-                    registros.append([actividad, nombre, estado])
+                    registro_tupla = (actividad, nombre, estado)
+                    if registro_tupla not in vistos:
+                        vistos.add(registro_tupla)
+                        registros.append([actividad, nombre, estado])
             
             # Ordenar alfabéticamente por NOMBRE_ORGANISMO 
             # Para "TODAS", el nombre está en el índice 0. Para el resto, en el índice 1.
