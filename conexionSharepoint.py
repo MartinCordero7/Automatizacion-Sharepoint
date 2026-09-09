@@ -31,6 +31,11 @@ def sincronizar_sharepoint_con_forms():
             "actividad_sp": "Laboratorio de Calibración", 
             "doc_sheet": "Actividades LC (Respuestas)",
             "pestana": "Laboratorios de calibracion"
+        },
+        {
+            "actividad_sp": "TODAS", 
+            "doc_sheet": "Correos OEC",
+            "pestana": "OEC"
         }
     ]
     
@@ -63,22 +68,35 @@ def sincronizar_sharepoint_con_forms():
         pestana_destino = ruta["pestana"]
         
         print(f"\n--- Procesando: {actividad_buscada} ---")
-        datos_para_sheets = [["ACTIVIDAD", "NOMBRE_ORGANISMO", "ESTADO"]]
+        if actividad_buscada == "TODAS":
+            datos_para_sheets = [["NOMBRE_ORGANISMO"]]
+        else:
+            datos_para_sheets = [["ACTIVIDAD", "NOMBRE_ORGANISMO", "ESTADO"]]
         
         try:
             # Extraemos de SharePoint
-            consulta_filtro = f"Actividad eq '{actividad_buscada}' and Estado0 eq 'Vigente'"
-            items = lista.items.filter(consulta_filtro).get().execute_query()
+            if actividad_buscada == "TODAS":
+                # Si queremos todas, solo filtramos por Vigente (o puedes quitar el filtro de Estado0 si deseas)
+                consulta_filtro = "Estado0 eq 'Vigente'"
+            else:
+                consulta_filtro = f"Actividad eq '{actividad_buscada}' and Estado0 eq 'Vigente'"
+                
+            items = lista.items.filter(consulta_filtro).get_all().execute_query()
             
             registros = []
             for item in items:
                 nombre = item.properties.get("Title", "Sin Nombre")
-                actividad = item.properties.get("Actividad", "Sin Actividad")
-                estado = item.properties.get("Estado0", "Sin Estado")
-                registros.append([actividad, nombre, estado])
+                if actividad_buscada == "TODAS":
+                    registros.append([nombre])
+                else:
+                    actividad = item.properties.get("Actividad", "Sin Actividad")
+                    estado = item.properties.get("Estado0", "Sin Estado")
+                    registros.append([actividad, nombre, estado])
             
-            # Ordenar alfabéticamente por NOMBRE_ORGANISMO (índice 1)
-            registros.sort(key=lambda x: x[1])
+            # Ordenar alfabéticamente por NOMBRE_ORGANISMO 
+            # Para "TODAS", el nombre está en el índice 0. Para el resto, en el índice 1.
+            indice_nombre = 0 if actividad_buscada == "TODAS" else 1
+            registros.sort(key=lambda x: x[indice_nombre])
             datos_para_sheets.extend(registros)
                 
             print(f"-> ¡Éxito! Se extrajeron {len(datos_para_sheets) - 1} registros vigentes.")
